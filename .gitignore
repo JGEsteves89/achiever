@@ -11,6 +11,9 @@
 # production
 /build
 
+# stuff from the mockups
+/mockup
+
 # misc
 .DS_Store
 .env.local
