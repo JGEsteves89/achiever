@@ -2,7 +2,7 @@
 	"name": "achiever",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "https://github.com/JGEsteves89/achiever",
+	"homepage": "https://jgesteves89.github.io/achiever/",
 	"dependencies": {
 		"@emotion/react": "^11.10.5",
 		"@emotion/styled": "^11.10.5",
